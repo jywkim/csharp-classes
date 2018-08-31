@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/jywkim/csharp-classes/bin/Debug/netcoreapp2.1/csharp-classes.deps.json
+/home/jonathan/Desktop/jywkim/csharp-classes/bin/Debug/netcoreapp2.1/csharp-classes.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/csharp-classes/bin/Debug/netcoreapp2.1/csharp-classes.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/csharp-classes/bin/Debug/netcoreapp2.1/csharp-classes.dll
+/home/jonathan/Desktop/jywkim/csharp-classes/bin/Debug/netcoreapp2.1/csharp-classes.pdb
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.dll
+/home/jonathan/Desktop/jywkim/csharp-classes/obj/Debug/netcoreapp2.1/csharp-classes.pdb
