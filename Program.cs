@@ -12,6 +12,7 @@ namespace csharp_classes
             Console.WriteLine(account.Balance);
             account.MakeDeposit(100, DateTime.Now, "friend paid me back");
             Console.WriteLine(account.Balance);
+            Console.WriteLine(account.GetAccountHistory());
             // Test that the initial balances must be positive:
             try
             {

@@ -57,5 +57,18 @@ namespace csharp_classes
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
         }
+
+        public string GetAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+
+            report.AppendLine("Date\t\tAmount\tNote");
+            foreach (var item in allTransactions)
+            {
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{item.Notes}");
+            }
+
+            return report.ToString();
+        }
     }
 }
